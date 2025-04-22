@@ -1,0 +1,1 @@
+Este proyecto lo realizamos para hacer una interfaz de una galeria de imagenes y es de forma responsiva
